@@ -1,0 +1,7 @@
+C:\Users\Inari\source\repos\week 2 capstone\week 2 capstone\bin\Debug\week 2 capstone.exe.config
+C:\Users\Inari\source\repos\week 2 capstone\week 2 capstone\bin\Debug\week 2 capstone.exe
+C:\Users\Inari\source\repos\week 2 capstone\week 2 capstone\bin\Debug\week 2 capstone.pdb
+C:\Users\Inari\source\repos\week 2 capstone\week 2 capstone\obj\Debug\week 2 capstone.csprojAssemblyReference.cache
+C:\Users\Inari\source\repos\week 2 capstone\week 2 capstone\obj\Debug\week 2 capstone.csproj.CoreCompileInputs.cache
+C:\Users\Inari\source\repos\week 2 capstone\week 2 capstone\obj\Debug\week 2 capstone.exe
+C:\Users\Inari\source\repos\week 2 capstone\week 2 capstone\obj\Debug\week 2 capstone.pdb
